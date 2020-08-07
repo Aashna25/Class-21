@@ -1,2 +1,2 @@
-# Class-21
-Passing arguments to function isTouching()
+# p5.play-boilerplate
+Boiler plate for p5.play
